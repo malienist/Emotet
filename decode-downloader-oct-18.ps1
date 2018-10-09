@@ -1,4 +1,5 @@
 <# You might need this: Set-ExecutionPolicy RemoteSigned #>
+<# This script is for decoding the Emotet downloader which you can find here: https://github.com/vithakur/Emotet/blob/master/downloader-oct-18 #>
 $yutclegzqoyby='m'') -re';
 
 $a_bqijbrubozugchzri40=';
